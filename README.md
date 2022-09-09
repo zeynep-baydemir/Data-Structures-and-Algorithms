@@ -1,2 +1,2 @@
-# Data-Structures-and-Algorithms
 Cmpe250 Course Projects
+This repository includes my student projects in Bogazici University Computer Engineering Department and can only be used for learning and education purposes not for cheating.
